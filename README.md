@@ -7,3 +7,9 @@
 </div>
   
 <!-- Dados gerais do perfil, linguas mais usadas e comits, stars, PR's, etc. -->
+
+<!-- Snake -->
+
+![snake gif](https://github.com/Jixatos/Jixatos/blob/output/github-contribution-grid-snake.svg)
+
+<!-- Snake -->
