@@ -10,6 +10,6 @@
 
 <!-- Snake -->
 
-![snake gif](https://github.com/Jixatos/Jixatos/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Jixatos/Jixatos/blob/main/.github/workflows/blank.yml)
 
 <!-- Snake -->
