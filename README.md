@@ -10,6 +10,5 @@
 
 <!-- Snake -->
   
-![Snake animation](https://github.com/jixatos/jixatos/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Snake -->
