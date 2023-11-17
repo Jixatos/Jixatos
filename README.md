@@ -18,16 +18,16 @@
 
 <h2 style="font-weight: bold">Languages and tools:</h2>
 <div style="display: inline">
-  <img alt="" height="32" width="50" src="https://cdn.simpleicons.org/git/black/white">
+  <img alt="juan-git" height="32" width="50" src="https://cdn.simpleicons.org/git/black/white">
   <img alt="juan-python" height="32" width="50" src="https://cdn.simpleicons.org/python/black/white"/>
-  <img alt="" height="32" width="50" src="https://cdn.simpleicons.org/pandas/black/white">
-  <img alt="" height="32" width="50" src="https://cdn.simpleicons.org/oracle/black/white">
-  <img alt="" height="32" width="50" src="https://cdn.simpleicons.org/html5/black/white">
-  <img alt="" height="32" width="50" src="https://cdn.simpleicons.org/css3/black/white">
-  <img alt="" height="32" width="50" src="https://cdn.simpleicons.org/javascript/black/white">
-  <img alt="" height="32" width="50" src="https://cdn.simpleicons.org/react/black/white">
-  <img alt="" height="32" width="50" src="https://cdn.simpleicons.org/next.js/black/white">
-  <img alt="" height="32" width="50" src="https://cdn.simpleicons.org/tailwindcss/black/white">
+  <img alt="juan-pandas" height="32" width="50" src="https://cdn.simpleicons.org/pandas/black/white">
+  <img alt="juan-oracle" height="32" width="50" src="https://cdn.simpleicons.org/oracle/black/white">
+  <img alt="juan-html5" height="32" width="50" src="https://cdn.simpleicons.org/html5/black/white">
+  <img alt="juan-css3" height="32" width="50" src="https://cdn.simpleicons.org/css3/black/white">
+  <img alt="juan-javascript" height="32" width="50" src="https://cdn.simpleicons.org/javascript/black/white">
+  <img alt="juan-react.js" height="32" width="50" src="https://cdn.simpleicons.org/react/black/white">
+  <img alt="juan-next.js" height="32" width="50" src="https://cdn.simpleicons.org/next.js/black/white">
+  <img alt="juan-tailwind" height="32" width="50" src="https://cdn.simpleicons.org/tailwindcss/black/white">
 </div>
 
 <h2 style="font-weight: bold">Contact:</h2>
