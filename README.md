@@ -16,7 +16,7 @@
   </picture>
 </div>
 
-<h2 style="font-weight: bold">Languages:</h2>
+<h2 style="font-weight: bold">Languages and tools:</h2>
 <div style="display: inline">
   <img alt="" height="32" width="50" src="https://cdn.simpleicons.org/git/black/white">
   <img alt="juan-python" height="32" width="50" src="https://cdn.simpleicons.org/python/black/white"/>
