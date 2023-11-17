@@ -5,14 +5,14 @@
 <!-- Vizualização de dados e linguagens utilizadas no GitHub -->
 <div style="text-align: center; display: inline">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Jixatos&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-    <source media="(prefers-color-scheme: ligh)" srcset="https://github-readme-stats.vercel.app/api?username=Jixatos&show_icons=true&theme=swift&include_all_commits=true&count_private=true">
-    <img alt="Juan's-GitHub-stats" height="180" src="https://github-readme-stats.vercel.app/api?username=Jixatos&show_icons=true&theme=swift&include_all_commits=true&count_private=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-jixatos.vercel.app/api?username=Jixatos&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+    <source media="(prefers-color-scheme: ligh)" srcset="https://github-readme-stats-jixatos.vercel.app/api?username=Jixatos&show_icons=true&theme=swift&include_all_commits=true&count_private=true">
+    <img alt="Juan's-GitHub-stats" height="180" src="https://github-readme-stats-jixatos.vercel.app/api?username=Jixatos&show_icons=true&theme=swift&include_all_commits=true&count_private=true">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jixatos&layout=compact&langs_count=7&theme=dark">
-    <source media="(prefers-color-scheme: ligh)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jixatos&layout=compact&langs_count=7&theme=swift">
-    <img alt="Juan's-GitHub-stats-lg" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jixatos&layout=compact&langs_count=7&theme=swift">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-jixatos.vercel.app/api/top-langs/?username=Jixatos&layout=compact&langs_count=7&theme=dark">
+    <source media="(prefers-color-scheme: ligh)" srcset="https://github-readme-stats-jixatos.vercel.app/api/top-langs/?username=Jixatos&layout=compact&langs_count=7&theme=swift">
+    <img alt="Juan's-GitHub-stats-lg" height="180em" src="https://github-readme-stats-jixatos.vercel.app/api/top-langs/?username=Jixatos&layout=compact&langs_count=7&theme=swift">
   </picture>
 </div>
 
