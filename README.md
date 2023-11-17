@@ -4,9 +4,11 @@
 
 <!-- Vizualização de dados e linguagens utilizadas no GitHub -->
 
-![Juan's GitHub stats-dark](https://github-readme-stats.vercel.app/api?username=Jixatos&show_icons=true&theme=dark#gh-dark-mode-only&include_all_commits=true&count_private=true#gh-dark-mode-only)![Juan's GitHub stats-ligh](https://github-readme-stats.vercel.app/api?username=Jixatos&show_icons=true&theme=swift#gh-dark-mode-only&include_all_commits=true&count_private=true#gh-light-mode-only)
+[![Juan's GitHub stats-dark](https://github-readme-stats.vercel.app/api?username=Jixatos&show_icons=true&theme=dark#gh-dark-mode-only&include_all_commits=true&count_private=true#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=Jixatos&show_icons=true&theme=dark#gh-dark-mode-only&include_all_commits=true&count_private=true#gh-dark-mode-only)
+[![Juan's GitHub stats-ligh](https://github-readme-stats.vercel.app/api?username=Jixatos&show_icons=true&theme=swift#gh-dark-mode-only&include_all_commits=true&count_private=true#gh-light-mode-only)](https://github-readme-stats.vercel.app/api?username=Jixatos&show_icons=true&theme=swift#gh-dark-mode-only&include_all_commits=true&count_private=true#gh-light-mode-only)
 
-![Juan's GitHub stats-lg-dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Jixatos&layout=compact&langs_count=7&theme=dark#gh-dark-mode-only)![Juan's GitHub stats-lg-light](https://github-readme-stats.vercel.app/api/top-langs/?username=Jixatos&layout=compact&langs_count=7&theme=swift#gh-light-mode-only)
+[![Juan's GitHub stats-lg-dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Jixatos&layout=compact&langs_count=7&theme=dark#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=Jixatos&layout=compact&langs_count=7&theme=dark#gh-dark-mode-only)
+[![Juan's GitHub stats-lg-light](https://github-readme-stats.vercel.app/api/top-langs/?username=Jixatos&layout=compact&langs_count=7&theme=swift#gh-light-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=Jixatos&layout=compact&langs_count=7&theme=swift#gh-light-mode-only)
 
 
 <h2 style="font-weight: bold">Languages:</h2>
