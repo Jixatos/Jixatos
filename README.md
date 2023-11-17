@@ -3,16 +3,18 @@
 <p>This is my personal repository, here I share my personal projects</p>
 
 <h2 style="font-weight: bold">Languages:</h2>
-<img alt="" height="32" width="50" src="https://cdn.simpleicons.org/git/black/white">
-<img alt="juan-python" height="32" width="50" src="https://cdn.simpleicons.org/python/black/white"/>
-<img alt="" height="32" width="50" src="https://cdn.simpleicons.org/pandas/black/white">
-<img alt="" height="32" width="50" src="https://cdn.simpleicons.org/oracle/black/white">
-<img alt="" height="32" width="50" src="https://cdn.simpleicons.org/html5/black/white">
-<img alt="" height="32" width="50" src="https://cdn.simpleicons.org/css3/black/white">
-<img alt="" height="32" width="50" src="https://cdn.simpleicons.org/javascript/black/white">
-<img alt="" height="32" width="50" src="https://cdn.simpleicons.org/react/black/white">
-<img alt="" height="32" width="50" src="https://cdn.simpleicons.org/next.js/black/white">
-<img alt="" height="32" width="50" src="https://cdn.simpleicons.org/tailwindcss/black/white">
+<div style="display: inline">
+  <img alt="" height="32" width="50" src="https://cdn.simpleicons.org/git/black/white">
+  <img alt="juan-python" height="32" width="50" src="https://cdn.simpleicons.org/python/black/white"/>
+  <img alt="" height="32" width="50" src="https://cdn.simpleicons.org/pandas/black/white">
+  <img alt="" height="32" width="50" src="https://cdn.simpleicons.org/oracle/black/white">
+  <img alt="" height="32" width="50" src="https://cdn.simpleicons.org/html5/black/white">
+  <img alt="" height="32" width="50" src="https://cdn.simpleicons.org/css3/black/white">
+  <img alt="" height="32" width="50" src="https://cdn.simpleicons.org/javascript/black/white">
+  <img alt="" height="32" width="50" src="https://cdn.simpleicons.org/react/black/white">
+  <img alt="" height="32" width="50" src="https://cdn.simpleicons.org/next.js/black/white">
+  <img alt="" height="32" width="50" src="https://cdn.simpleicons.org/tailwindcss/black/white">
+</div>
 
 <h2 style="font-weight: bold">Contact:</h2>
 <img href="mailto:j1108gody@outlook.com" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
