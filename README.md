@@ -3,15 +3,19 @@
 <p>This is my personal repository, here I share my personal projects</p>
 
 <!-- Vizualização de dados e linguagens utilizadas no GitHub -->
-
-<div style="text-align: center; display: inline; height: 160em ">
-
-  [![Juan's GitHub stats-dark](https://github-readme-stats.vercel.app/api?username=Jixatos&show_icons=true&theme=dark#gh-dark-mode-only&include_all_commits=true&count_private=true#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=Jixatos&show_icons=true&theme=dark#gh-dark-mode-only&include_all_commits=true&count_private=true#gh-dark-mode-only)
-  [![Juan's GitHub stats-ligh](https://github-readme-stats.vercel.app/api?username=Jixatos&show_icons=true&theme=swift#gh-dark-mode-only&include_all_commits=true&count_private=true#gh-light-mode-only)](https://github-readme-stats.vercel.app/api?username=Jixatos&show_icons=true&theme=swift#gh-dark-mode-only&include_all_commits=true&count_private=true#gh-light-mode-only)
-
-  [![Juan's GitHub stats-lg-dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Jixatos&layout=compact&langs_count=7&theme=dark#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=Jixatos&layout=compact&langs_count=7&theme=dark#gh-dark-mode-only)
-  [![Juan's GitHub stats-lg-light](https://github-readme-stats.vercel.app/api/top-langs/?username=Jixatos&layout=compact&langs_count=7&theme=swift#gh-light-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=Jixatos&layout=compact&langs_count=7&theme=swift#gh-light-mode-only)
+<div style="text-align: center; display: inline">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Jixatos&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+    <source media="(prefers-color-scheme: ligh)" srcset="https://github-readme-stats.vercel.app/api?username=Jixatos&show_icons=true&theme=swift&include_all_commits=true&count_private=true">
+    <img alt="Juan's-GitHub-stats" height="150em" src="https://github-readme-stats.vercel.app/api?username=Jixatos&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  </picture>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jixatos&layout=compact&langs_count=7&theme=dark">
+  <source media="(prefers-color-scheme: ligh)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jixatos&layout=compact&langs_count=7&theme=swift">
+  <img alt="Juan's-GitHub-stats-lg" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jixatos&layout=compact&langs_count=7&theme=dark">
+</picture>
 
 <h2 style="font-weight: bold">Languages:</h2>
 <div style="display: inline">
