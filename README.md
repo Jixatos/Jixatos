@@ -21,6 +21,7 @@
   <img alt="juan-git" height="32" width="50" src="https://cdn.simpleicons.org/git/black/white">
   <img alt="juan-python" height="32" width="50" src="https://cdn.simpleicons.org/python/black/white"/>
   <img alt="juan-pandas" height="32" width="50" src="https://cdn.simpleicons.org/pandas/black/white">
+  <img alt="juan-sklearn" height="32" width="50" src="https://cdn.simpleicons.org/scikitlearn/black/white">
   <img alt="juan-oracle" height="32" width="50" src="https://cdn.simpleicons.org/oracle/black/white">
   <img alt="juan-html5" height="32" width="50" src="https://cdn.simpleicons.org/html5/black/white">
   <img alt="juan-css3" height="32" width="50" src="https://cdn.simpleicons.org/css3/black/white">
