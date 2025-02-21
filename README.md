@@ -1,4 +1,4 @@
-<h1 style="text-align: center; font-weight: bold">Hello World! Welcome to my GitHub.</h1>
+<h1 align="center" font-weight= "bold">Hello World! Welcome to my GitHub.</h1>
 
 <!-- Vizualização de dados e linguagens utilizadas no GitHub -->
 <div align="center" justify-content="space-between">
@@ -18,4 +18,4 @@
 </picture>
 </div>
 
-<!-- Texto informativo "Sobre mim" -->
+<!-- Texto informativo  -->
