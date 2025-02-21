@@ -6,6 +6,7 @@
 <a href="mailto:j1108gody@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/juan-godoy-316240261/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
+<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-jixatos.vercel.app/api?username=Jixatos&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
   <source media="(prefers-color-scheme: ligh)" srcset="https://github-readme-stats-jixatos.vercel.app/api?username=Jixatos&show_icons=true&theme=swift&include_all_commits=true&count_private=true">
